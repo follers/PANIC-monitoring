@@ -1,6 +1,6 @@
 ## NODES monitoring and notification system
 
-PANIC is an open source monitoring and notification system for Cosmos-SDK, Substrate and Chainlink based nodes from Simply VC. The tool was built with user needs in mind and has many features such as phone calls for critical alerts, installation via Web-UI and Telegram/Slack alerts.
+NODES monitoring is an open source monitoring and notification system for Cosmos-SDK, Substrate and Chainlink based nodes from Simply VC. The tool was built with user needs in mind and has many features such as phone calls for critical alerts, installation via Web-UI and Telegram/Slack alerts.
 
 #### Installing Git
 *Skip if Git is already installed.
